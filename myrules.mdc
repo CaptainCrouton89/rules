@@ -1,9 +1,0 @@
----
-description: 
-globs: 
-alwaysApply: true
----
-IMPORTANT:
-- When working on larger tasks or planning, use `create_task`, `list_tasks`, `get_task`, `complete_task`, `update_task`, `delete_task`, and `break_down_task` to keep track of what needs to be done.
-- If the user asks to think deeply, call the `sequentialthinking` tool.
-- If the next work is ambiguous, use `list_tasks` to figure out what to do.
